@@ -1,0 +1,16 @@
+- &addr2: 0xffc1441c
+- &addr3: 0xffc14420
+- foo: 0x56628765
+- &addr5: 0x5662a018
+dist1: (size_t)&addr6 - (size_t)p: -4
+dist2: (size_t)&local - (size_t)p: -1453415500
+dist3: (size_t)&foo - (size_t)p:  -6323
+- addr0: 0x5662a008
+- addr1: 0x5662a010
+- &addr6: 0x5662a014
+- yos: 0x56628950
+- addr4: 0x56a49160
+- &addr4: 0xffc14424
+- &foo1: 0x56628853
+- &foo1: 0x5662887e
+- &foo2 - &foo1: 43
