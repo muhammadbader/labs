@@ -1,0 +1,17 @@
+Where is the entry point specified, and what is its value? 
+    the entry point is specified in the ELF Header Under Entry point address field, it points to _start symbol
+
+How many sections are there in a.out? 
+    34
+
+What is the size of the .text section? 
+    0001b8
+
+Does the symbol _start occur in the file? If so, where is it mapped to in virtual memory? 
+    yes, in 080482e0
+
+Does the symbol main occur in the file? If so, where is it mapped to in virtual memory? 
+    yes, in 08048388
+
+Where in the file does the code of function "main" start? 
+    

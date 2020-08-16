@@ -1,0 +1,4 @@
+_start is loaded to the address 08048080
+But the entry point is in 0804808a
+
+Did not find the location so I don't know how to modify
